@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+body {
+  background-color: #6164f3;
+  font-size: 24px;
+  color: #333;
+}
+#gallery ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#gallery ul li {
+  width: 330px;
+  margin: 0 330px 0 0;
+  padding: 0;
+  float: left;
+  text-align: center;
+  color: rgb(12, 12, 12);
+  font-weight: bold;
+}
+#qk-bd ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#qk-bd ul li {
+  width: 340px;
+  margin: 0 340px 0 40px;
+  padding: 0;
+  float: left;
+  text-align: center;
+  color: rgb(12, 12, 12);
+  font-weight: bold;
+}
+#base h1 {
+  color: rgb(199, 20, 20);
+  padding: 0;
+  font-size: 80px;
+  text-align: center;
+}
+#wrapper {
+  background-color: #6164f3;
+}
+#top ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#top ul li {
+  width: 640px;
+  margin: 0 100px 30px 0;
+  padding: 10px 0;
+  float: left;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+#point ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#point ul li {
+  width: 640px;
+  margin: 0 100px 30px 0;
+  padding: 10px 0;
+  float: left;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+#an ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#an ul li {
+  width: 150px;
+  margin: 0 10px 10px 0;
+  padding: 10px 0;
+  float: left;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+#point h1 {
+  color: rgb(199, 20, 20);
+  padding: 0;
+  font-size: 80px;
+  text-align: center;
+}
+#point h2.current a {
+  background-color: #6770ec
+}
+#point h2 a:hover {
+  background-color: #3440e0;
+}
